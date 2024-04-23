@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @simoneorlando97
-- 🎓 I'm a graduate in Computer Science and Engineering  
-- 👀 I’m interested in Machine Learning and Computer Security
-- 🕹️ I’m currently playing CTF with Tower of Hanoi and mHACKeroni
+- 🎓 I'm a PhD student at Politecnico di Milano  
+- 👀 My main research interest lies in the cryptography field
 - 📫 How to reach me: @simoneorlando97 on Twitter 
 
 <!---
